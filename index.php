@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>
-        <?php echo "Hello World from PHP by Christoph W!"; ?>
+        <?php echo "Hello World from PHP by Christoph W.!"; ?>
     </h1>
 
     <p>
