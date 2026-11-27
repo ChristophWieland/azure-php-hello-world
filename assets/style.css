@@ -1,0 +1,7 @@
+body { background: #f5f7fa; }
+.navbar-brand { letter-spacing: .2px; }
+.card { border: 0; border-radius: .75rem; }
+.card-header { padding: 1rem 1.1rem; border-bottom: 1px solid #edf0f3; border-radius: .75rem .75rem 0 0 !important; }
+.card-body { padding: 1.1rem; }
+.table th { font-size: .82rem; color: #5b6572; font-weight: 600; white-space: nowrap; }
+.table td { font-size: .92rem; }
